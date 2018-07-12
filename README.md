@@ -1,4 +1,6 @@
 # xmr-stak-cpu-ios
+Special thanks to Michael G. Kazakov.
+
 iOS port of the XMR-STAK-CPU mining software. The port allows to mine Monero cryptocurrency on iPhones and iPads.
 
 Workability of this solution was tested on iOS11 and Xcode9.
